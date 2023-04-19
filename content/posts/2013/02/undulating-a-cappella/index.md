@@ -11,6 +11,7 @@ category:
     - Uncategorized
 tag: []
 post_format: []
+featured_image: 'SpotPoster_v3.png'
 ---
 Concert poster revealed! Created by our very own talented Kristina.
 
