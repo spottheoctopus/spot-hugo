@@ -12,7 +12,7 @@
     </div>
     <div>
       {{ range first 10 .Site.RegularPages }}
-          {{ .Render }}
+          {{ .Render "summary-with-image" }}
       {{ end }}
     </div>
   </main>
