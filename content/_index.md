@@ -1,3 +1,8 @@
+---
+cascade:
+  banner: images/waves.jpg
+title: Spot the Octopus
+---
 {{ partial "header.html" . }}
 	<main>
         {{ .Content }}
