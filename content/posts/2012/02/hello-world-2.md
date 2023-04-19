@@ -17,6 +17,4 @@ We’re back in business!
 
 Here’s Show Me Your Patronus from April 21, 2011:
 
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="469" loading="lazy" src="https://www.youtube.com/embed/8_wGJRrBVvY?feature=oembed" title="Spot the Octopus - Show Me Your Patronus" width="625"></iframe>
-
 {{< youtube 8_wGJRrBVvY >}}
