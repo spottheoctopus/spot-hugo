@@ -1,6 +1,6 @@
 ---
-title: "Wordpress to Hugo"
-date: '2023-04-19T09:40:29-08:00'
+title: 'Wordpress to Hugo'
+date: '2023-04-19T16:53:03Z'
 status: publish
 permalink: /2023/04/hugo
 author: judytuna
