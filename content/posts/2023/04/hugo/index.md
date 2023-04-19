@@ -6,9 +6,8 @@ permalink: /2023/04/hugo
 author: judytuna
 excerpt: ''
 type: post
-id: 35
 category:
-    - Uncategorized
+    - events
 tag:
     - meta
 post_format: []
