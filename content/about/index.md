@@ -14,7 +14,7 @@ tag: []
 post_format: []
 ---
 
-# Spot the Octopus is comprised of these ten troubadours:
+## Spot the Octopus is comprised of these ten troubadours:
 
 [Alan Coyne](http://www.awkwardface.com/performers.html)
 
@@ -28,15 +28,17 @@ Christopher Condap
 
 [Fritz Huie](http://fritzhuie.com/)
 
-[Hannah Glass](https://www.yflband.com)
-
 [Judy Tuan](https://judytuna.com/)
 
 [Lisa Sindorf](https://www.lisasindorf.com/)
 
+Mana Kahali
+
 [Peterson Trethewey](https://2-complex.com/)
 
-# Past members include:
+## Past members include:
+
+[Hannah Glass](https://www.yflband.com)
 
 [Kristina Reinholds](https://www.redbubble.com/people/kreinholds/shop)
 
