@@ -1,5 +1,3 @@
 ---
-featured_image: '/images/waves.jpg'
+featured_image: '/images/waves_long.jpg'
 ---
-
-{{ .Content }}
