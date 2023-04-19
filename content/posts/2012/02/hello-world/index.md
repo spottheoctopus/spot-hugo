@@ -2,7 +2,7 @@
 title: 'Hello world!'
 date: '2012-02-13T10:51:01+00:00'
 status: publish
-permalink: /2012/02/hello-world-2
+permalink: /2012/02/hello-world
 author: judytuna
 excerpt: ''
 type: post
@@ -12,6 +12,7 @@ category:
 tag: []
 post_format: []
 draft: false
+featured_image: '/posts/2012/02/hello-world/'
 ---
 We’re back in business!
 
