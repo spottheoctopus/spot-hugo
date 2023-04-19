@@ -10,6 +10,7 @@ Paginate = 10 # this is set low for demonstrating with dummy content. Set to a h
 googleAnalytics = ""
 enableRobotsTXT = true
 disable_share = true
+disableShare = true
 
 [languages]
   [languages.en]
@@ -26,7 +27,7 @@ disable_share = true
 [params]
   text_color = ""
   author = ""
-  favicon = ""
+  favicon = "/images/icon.jpg"
   site_logo = ""
   description = ""
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
@@ -34,3 +35,4 @@ disable_share = true
   recent_posts_number = 10
   post_content_classes = "avenir"
   disable_share = true
+  disableShare = true
