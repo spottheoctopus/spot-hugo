@@ -1,5 +1,5 @@
 ---
-title: 'Spot at DeCadence&#8217;s fall 2015 show'
+title: "Spot at DeCadence's fall 2015 show"
 date: '2015-12-12T23:50:29+00:00'
 status: publish
 permalink: /2015/12/spot-at-decadences-fall-2015-show

@@ -14,6 +14,6 @@ post_format: []
 ---
 Concert poster revealed! Created by our very own talented Kristina.
 
-<div class="wp-caption alignnone" id="attachment_21" style="width: 672px">[![Spot the Octopus In Concert](https://spottheoctop.us/files/2013/02/SpotPoster_v3-662x1024.png)](https://spottheoctop.us/2013/02/undulating-a-cappella/spotposter_v3/)Spot sings at the Subterranean Arthouse in Berkeley on Feb. 23, 2013!
+<div class="wp-caption alignnone" id="attachment_21" style="width: 672px">[![Spot the Octopus In Concert](files/2013/02/SpotPoster_v3-662x1024.png)](2013/02/undulating-a-cappella/spotposter_v3/)Spot sings at the Subterranean Arthouse in Berkeley on Feb. 23, 2013!
 
 </div>
