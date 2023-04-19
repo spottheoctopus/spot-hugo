@@ -27,7 +27,7 @@ disableShare = true
 [params]
   text_color = ""
   author = ""
-  favicon = "/favicon.ico"
+  favicon = "/spot-hugo/favicon.ico"
   site_logo = ""
   description = ""
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
