@@ -12,7 +12,6 @@ category:
 tag: []
 post_format: []
 draft: false
-featured_image: '/posts/2012/02/hello-world/'
 ---
 We’re back in business!
 

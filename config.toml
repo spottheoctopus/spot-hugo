@@ -9,6 +9,7 @@ SectionPagesMenu = "main"
 Paginate = 10 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
+disable_share = true
 
 [languages]
   [languages.en]
@@ -32,4 +33,4 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   recent_posts_number = 10
   post_content_classes = "avenir"
-  disable_share = "true"
+  disable_share = true
