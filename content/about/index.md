@@ -16,9 +16,9 @@ post_format: []
 
 ## Spot the Octopus is comprised of these ten troubadours:
 
-[Alan Coyne](http://www.awkwardface.com/performers.html)
+[Alan Coyne](https://www.awkwardface.com/performers.html)
 
-[Angela Don](http://www.angeladon.com/)
+[Angela Don](https://www.angeladon.com/)
 
 Bryce Harenburg
 
@@ -26,7 +26,7 @@ Carolyn Thamkul
 
 Christopher Condap
 
-[Fritz Huie](http://fritzhuie.com/)
+[Fritz Huie](https://fritzhuie.com/)
 
 [Judy Tuan](https://judytuna.com/)
 
