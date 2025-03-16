@@ -23,4 +23,4 @@ Berkeley, CA
 
 More info coming soon =) Otherwise, we’re still rehearsing every week and [recording ourselves](https://youtube.com/spottheoctopus) intermittently. We had an epic music party on NYE to bring in 2013 with lots of instruments, which is not something that usually happens when we meet, being an a cappella group and all.
 
-Edited to add: see our beautiful [concert poster](posts/2013/02/undulating-a-cappella/)!
+Edited to add: see our beautiful [concert poster](/posts/2013/02/undulating-a-cappella/)!
