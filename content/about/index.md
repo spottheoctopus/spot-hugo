@@ -14,6 +14,11 @@ tag: []
 post_format: []
 ---
 
+# About the Octopus
+
+We met in [DeCadence](https://decadence.studentorg.berkeley.edu/) long ago! 
+
+
 ## Spot the Octopus is comprised of these ten troubadours:
 
 [Alan Coyne](https://www.awkwardface.com/performers.html)
