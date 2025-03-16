@@ -28,7 +28,8 @@ disableShare = true
   text_color = ""
   author = ""
   favicon = "/spot-hugo/favicon.ico"
-  site_logo = ""
+  # https://github.com/theNewDynamic/gohugo-theme-ananke/tree/8845854aa9ab5af79066e840d8c884fbbb8a269d?tab=readme-ov-file#logo
+  site_logo = "favicon.ico"
   description = ""
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
