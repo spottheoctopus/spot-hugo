@@ -37,3 +37,5 @@ disableShare = true
   post_content_classes = "avenir"
   disable_share = true
   disableShare = true
+  disableGtagForUniversalAnalytics = true
+  disable_gtag_for_universal_analytics = true
