@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Spot the Octopus"
-theme = "github.com/theNewDynamic/gohugo-theme-ananke/v2"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
