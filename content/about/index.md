@@ -1,6 +1,6 @@
 
 ---
-title: 'About'
+title: 'About the Octopus'
 date: '2013-02-01T15:53:34+00:00'
 status: publish
 permalink: /about
@@ -14,10 +14,7 @@ tag: []
 post_format: []
 ---
 
-# About the Octopus
-
-We met in [DeCadence](https://decadence.studentorg.berkeley.edu/) long ago! 
-
+We met in [DeCadence](https://decadence.studentorg.berkeley.edu/) long ago!
 
 ## Spot the Octopus is comprised of these ten troubadours:
 
