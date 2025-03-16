@@ -11,7 +11,7 @@ category:
     - upcoming
 tag: []
 post_format: []
-featured_image: '/posts/2013/01/save-the-date-2-23-13/record_player.webp'
+featured_image: '/images/record_player.webp'
 ---
 We’re putting on a concert!
 

@@ -11,7 +11,7 @@ category:
     - Uncategorized
 tag: []
 post_format: []
-featured_image: '/posts/2013/02/undulating-a-cappella/SpotPoster_v3.png'
+featured_image: '/images/SpotPoster_v3.png'
 ---
 Concert poster revealed! Created by our very own talented Kristina.
 
