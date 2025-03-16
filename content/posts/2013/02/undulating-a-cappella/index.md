@@ -15,6 +15,6 @@ featured_image: '/images/SpotPoster_v3.png'
 ---
 Concert poster revealed! Created by our very own talented Kristina.
 
-![Spot the Octopus In Concert](SpotPoster_v3.png)
+![Spot the Octopus In Concert](/images/SpotPoster_v3.png)
 
 Spot sings at the Subterranean Arthouse in Berkeley on Feb. 23, 2013!
