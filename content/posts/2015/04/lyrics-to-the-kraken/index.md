@@ -11,9 +11,9 @@ category:
     - lyrics
 tag: []
 post_format: []
-featured_image: '/posts/2015/04/lyrics-to-the-kraken/kraken.webp'
+featured_image: '/images/kraken.webp'
 ---
-The Kraken’s a song that captures the essence who we are and why we do this. Written and arranged by Alan Coyne in 2014, it’s a favorite at. Hear it the following ways:
+The Kraken’s a song that captures the essence who we are and why we do this. Written and arranged by Alan Coyne in 2014, it’s a favorite at shows. Hear it the following ways:
 
 - In [performance](https://www.youtube.com/watch?v=13fKUoCiaDk) in Berkeley earlier this year (3/1/15) as mermaids, pirates, and other sea creatures
 - In [performance](https://www.youtube.com/watch?v=yJjSqegoTrs) in 2013 at the Subterranean Arthouse

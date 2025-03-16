@@ -11,7 +11,7 @@ category:
 tag:
     - video
 post_format: []
-featured_image: '/posts/2020/05/la-grippe/la-grippe.png'
+featured_image: '/images/la-grippe.png'
 ---
 Unable to meet in-person, Spot performs Squirrel Nut Zipper's more-than-ever relevant song, "La Grippe" for this Spot@Home video project!
 

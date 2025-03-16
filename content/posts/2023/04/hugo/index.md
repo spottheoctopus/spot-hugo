@@ -11,7 +11,7 @@ category:
 tag:
     - meta
 post_format: []
-featured_image: '/posts/2023/04/hugo/new_site.png'
+featured_image: '/images/new_site.png'
 ---
 
 Hey! We migrated from Wordpress to the static site generator Hugo just now. It's hilarious that the first post was in 2012 (6 or so years after our inception). We still meet every week, though there've been changes, like the birth of several a cappella babies!!! Maybe we'll get into posting more.
